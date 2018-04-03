@@ -1,0 +1,81 @@
+2018-04-02T18:10:25+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
+2018-04-02T18:11:04+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
+2018-04-02T18:12:30+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
+2018-04-02T18:13:13+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
+2018-04-02T18:13:22+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
+2018-04-02T18:14:24+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
+2018-04-02T18:14:30+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
+2018-04-02T18:14:52+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
+2018-04-02T18:15:54+00:00 CRITICAL Uncaught exception 'Exception' with message 'Неверное хранилище данных.' in C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php:94
+Stack trace:
+#0 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-data-store.php(129): WC_Data_Store->__construct('product')
+#1 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(81): WC_Data_Store::load('product')
+#2 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-product-factory.php(32): WC_Product_Factory::get_product_type(8)
+#3 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\wc-product-functions.php(68): WC_Product_Factory->get_product(8, Array)
+#4 C:\OpenServer\domains\test.guley.dev\www\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(754): wc_get_product(8)
+#5 [internal function]: WC_Form_Handler::add_to_cart_ac
+
